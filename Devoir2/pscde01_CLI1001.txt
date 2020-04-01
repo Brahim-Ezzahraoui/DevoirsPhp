@@ -1,0 +1,82 @@
+---------------------------- [ Client Numéro : CLI1001 ] -----------------------
+Numéro de Commande : 20121109-000001
+Date de Commande : 11-09-2012
+Désignation Article : Sucre morceaux 	
+Quantité(PAL) : 1
+Prix Unitaire(HT) : 6 
+Date de livraison : 13-09-2012
+Adresse Client : 1,  Rue des Colibris Agadir
+
+-------------------------------------------------------------------
+Numéro de Commande : 20121109-000001
+Date de Commande : 11-09-2012
+Désignation Article : Huile végétale 	
+Quantité(PAL) : 1
+Prix Unitaire(HT) : 15
+Date de livraison : 13-09-2012
+Adresse Client : 1,  Rue des Colibris Agadir
+
+-------------------------------------------------------------------
+Numéro de Commande : 20121109-000001
+Date de Commande : 11-09-2012
+Désignation Article : Mais Géant 250 g	
+Quantité(PAL) : 1
+Prix Unitaire(HT) : 4 
+Date de livraison : 13-09-2012
+Adresse Client : 1,  Rue des Colibris Agadir
+
+-------------------------------------------------------------------
+Numéro de Commande : 20121109-000001
+Date de Commande : 11-09-2012
+Désignation Article : Eau Sidi Ali   	
+Quantité(PAL) : 5
+Prix Unitaire(HT) : 4 
+Date de livraison : 13-09-2012
+Adresse Client : 1,  Rue des Colibris Agadir
+
+-------------------------------------------------------------------
+Numéro de Commande : 20121309-000002
+Date de Commande : 11-09-2012
+Désignation Article : Fanta 1.5 L    	
+Quantité(PAL) : 1
+Prix Unitaire(HT) : 5 
+Date de livraison : 13-09-2012
+Adresse Client : 1,  Rue des Colibris Agadir
+
+-------------------------------------------------------------------
+Numéro de Commande : 20121309-000002
+Date de Commande : 11-09-2012
+Désignation Article : Coca Cola 1.5L 	
+Quantité(PAL) : 2
+Prix Unitaire(HT) : 9 
+Date de livraison : 13-09-2012
+Adresse Client : 1,  Rue des Colibris Agadir
+
+-------------------------------------------------------------------
+Numéro de Commande : 20121010-000003
+Date de Commande : 11-09-2012
+Désignation Article : Oignons		
+Quantité(PAL) : 2
+Prix Unitaire(HT) : 4 
+Date de livraison : 13-09-2012
+Adresse Client : 1,  Rue des Colibris Agadir
+
+-------------------------------------------------------------------
+Numéro de Commande : 20121010-000003
+Date de Commande : 11-09-2012
+Désignation Article : Courgettes		
+Quantité(PAL) : 2
+Prix Unitaire(HT) : 3 
+Date de livraison : 13-09-2012
+Adresse Client : 1,  Rue des Colibris Agadir
+
+-------------------------------------------------------------------
+Numéro de Commande : 20121010-000003
+Date de Commande : 11-09-2012
+Désignation Article : Pomme Golden		
+Quantité(PAL) : 1
+Prix Unitaire(HT) : 12
+Date de livraison : 13-09-2012
+Adresse Client : 1,  Rue des Colibris Agadir
+
+-------------------------------------------------------------------

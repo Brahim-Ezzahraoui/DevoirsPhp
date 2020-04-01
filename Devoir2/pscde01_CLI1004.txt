@@ -1,0 +1,90 @@
+---------------------------- [ Client Numéro : CLI1004 ] -----------------------
+Numéro de Commande : 20121309-000002
+Date de Commande : 11-09-2012
+Désignation Article : Haricots sec   	
+Quantité(PAL) : 1
+Prix Unitaire(HT) : 6 
+Date de livraison : 13-09-2012
+Adresse Client : 31, Rue de l'universite MARRAKECH
+
+------------------------------------------------------------------
+Numéro de Commande : 20121309-000002
+Date de Commande : 11-09-2012
+Désignation Article : Lentilles Extra	
+Quantité(PAL) : 1
+Prix Unitaire(HT) : 6 
+Date de livraison : 13-09-2012
+Adresse Client : 31, Rue de l'universite MARRAKECH
+
+------------------------------------------------------------------
+Numéro de Commande : 20121309-000002
+Date de Commande : 11-09-2012
+Désignation Article : Huile d'olives       
+Quantité(PAL) : 1
+Prix Unitaire(HT) : 45
+Date de livraison : 13-09-2012
+Adresse Client : 31, Rue de l'universite MARRAKECH
+
+------------------------------------------------------------------
+Numéro de Commande : 20121010-000003
+Date de Commande : 11-09-2012
+Désignation Article : Confiture Aïcha 250 g
+Quantité(PAL) : 1
+Prix Unitaire(HT) : 6 
+Date de livraison : 13-09-2012
+Adresse Client : 1,  Rue des Colibris Agadir
+
+------------------------------------------------------------------
+Numéro de Commande : 20121010-000003
+Date de Commande : 11-09-2012
+Désignation Article : Tomates		
+Quantité(PAL) : 2
+Prix Unitaire(HT) : 3 
+Date de livraison : 13-09-2012
+Adresse Client : 31, Rue de l'universite MARRAKECH
+
+------------------------------------------------------------------
+Numéro de Commande : 20121010-000004
+Date de Commande : 11-09-2012
+Désignation Article : Bananes		
+Quantité(PAL) : 1
+Prix Unitaire(HT) : 12
+Date de livraison : 13-09-2012
+Adresse Client : 31, Rue de l'universite MARRAKECH
+
+------------------------------------------------------------------
+Numéro de Commande : 20121010-000004
+Date de Commande : 11-09-2012
+Désignation Article : Oignons		
+Quantité(PAL) : 2
+Prix Unitaire(HT) : 4 
+Date de livraison : 13-09-2012
+Adresse Client : 31, Rue de l'universite MARRAKECH
+
+------------------------------------------------------------------
+Numéro de Commande : 20121010-000004
+Date de Commande : 11-09-2012
+Désignation Article : Courgettes		
+Quantité(PAL) : 2
+Prix Unitaire(HT) : 3 
+Date de livraison : 13-09-2012
+Adresse Client : 31, Rue de l'universite MARRAKECH
+
+------------------------------------------------------------------
+Numéro de Commande : 20121010-000004
+Date de Commande : 11-09-2012
+Désignation Article : Pomme Golden		
+Quantité(PAL) : 1
+Prix Unitaire(HT) : 12
+Date de livraison : 13-09-2012
+Adresse Client : 31, Rue de l'universite MARRAKECH
+
+------------------------------------------------------------------
+Numéro de Commande : 20121010-000004
+Date de Commande : 11-09-2012
+Désignation Article : Bananes		
+Quantité(PAL) : 1
+Prix Unitaire(HT) : 12
+Date de livraison : 13-09-2012
+Adresse Client : 31, Rue de l'universite MARRAKECH
+------------------------------------------------------------------
